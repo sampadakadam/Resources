@@ -16,3 +16,4 @@
 * https://steinkamp.us/post/2022/11/10/what-i-learned-at-stripe.html
 * https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php
 * https://hagakure.substack.com/p/twh52-dont-yell-at-the-weather
+* https://hbr.org/2018/05/the-surprising-power-of-questions
