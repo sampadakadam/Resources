@@ -22,4 +22,4 @@
 ## Communication
 
 * https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/
-https://larahogan.me/blog/skill-naming-whats-happening/
+* https://larahogan.me/blog/skill-naming-whats-happening/
