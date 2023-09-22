@@ -24,3 +24,6 @@
 
 * https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/
 * https://larahogan.me/blog/skill-naming-whats-happening/
+
+## Perf Reviews
+* https://review.firstround.com/elevate-your-performance-review-conversations-with-these-12-expert-tips
