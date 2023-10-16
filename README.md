@@ -27,3 +27,6 @@
 
 ## Perf Reviews
 * https://review.firstround.com/elevate-your-performance-review-conversations-with-these-12-expert-tips
+  
+ ## Proguard Playground
+ * https://playground.proguard.com/
