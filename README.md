@@ -1,5 +1,8 @@
 # Resources
 
+## Git
+https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/
+
 ## Code Reviews
 
 * https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e
